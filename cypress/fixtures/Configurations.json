@@ -1,0 +1,62 @@
+{
+    "name": "Using fixtures to represent data",
+    "email": "hello@cypress.io",
+    "body": "Fixtures are a great way to mock data for responses to routes" ,
+    "ENV" : "QA-Stage",
+    
+    
+    "Environment":
+    {
+      
+      "baseURL":"https://xgl-app2.labs.myimagine.com/xGLinear/login.html",
+      "Username":"ASA",
+      "Password":"Abcd1234",
+      "label_ProgrammingandAllocationJobs":"Programming and Allocation Jobs"
+    } ,
+  
+    "Reports":
+    {
+      "runSqlCommandsReport" :"https://xgl-app2.labs.myimagine.com/xGLinear/index.html#/Reports"
+      
+    
+    },
+    "XGLT-6694":
+    {
+      "runSqlCommandsReport" :"https://xgl-app2.labs.myimagine.com/xGLinear/index.html#/Reports"
+      
+    },
+    "XGLT-7011":
+    {
+      "runSqlCommandsReport" :"https://xgl-app2.labs.myimagine.com/xGLinear/index.html#/Reports"
+      
+    } ,
+    "XGLT_6793":
+    {
+      "InventoryType":"ALBIC | Albany Interconnect",
+      "priority":"100",
+      "Network_name":"APL | Animal Planet"
+    },
+    "XGLT_6803":
+    {
+      "InventoryTypeID":"999",
+      "Description":"Test"
+      
+    },
+    "AdCopyGroup": {
+      "Customer_Name": "abcdef2",
+      "Description1": "TestBillboard",
+      "Description2": "TestBookend",
+      "Description3": "TestPiggyback",
+      "Description4": "TestStandard",
+  
+      "Billboard": "Billboard",
+      "Bookend": "Bookend",
+      "Piggyback": "Piggyback",
+      "Standard": "Standard",  
+      "Customer_ID_Name": "000183597 | #TRADE/CNN NEWSOURCE"
+    }
+    
+
+    
+  }
+  

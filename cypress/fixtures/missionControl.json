@@ -1,0 +1,31 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes" ,
+  "ENV" : "QA-Stage",
+  
+  
+  "Environment":
+  {
+    "baseURL": "https://xgl-app2.labs.myimagine.com/xGLinear/login.html",
+    "Username":"ASA",
+    "Password":"Abcd1234",
+    "label_ProgrammingandAllocationJobs":"Programming and Allocation Jobs"
+  },
+  "XGLT6696":
+  { "CustName":"Cypress1",
+    "priority":40
+  },
+  
+  "XGLT6943":
+  {
+    "CustName":"Cypress"
+  },
+  
+  "XGLT6789":
+  {
+    "CustName":"Cypress"
+  }
+
+  
+}

@@ -1,0 +1,24 @@
+{
+    "AdCopyGroup": {
+      "Customer_Name": "abcdef2",
+      "Description1": "TestBillboard",
+      "Description2": "TestBookend",
+      "Description3": "TestPiggyback",
+      "Description4": "TestStandard",
+  
+      "Billboard": "Billboard",
+      "Bookend": "Bookend",
+      "Piggyback": "Piggyback",
+      "Standard": "Standard",  
+      "Customer_ID_Name": "000183597 | #TRADE/CNN NEWSOURCE"
+    },
+    "body": "Fixtures are a great way to mock data for responses to routes",
+    "ENV": "QA-Stage",
+
+    "Environment": {
+      "baseURL": "https://xgl-app2.labs.myimagine.com/xGLinear/login.html",
+      "Username": "ASA",
+      "Password": "Abcd1234",
+      "label_ProgrammingandAllocationJobs": "Programming and Allocation Jobs"
+    }
+  }
